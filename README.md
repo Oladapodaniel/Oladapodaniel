@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a neighbourhood application where neighbour in the same residential area can connect with each other, it will help to create a strong bond amongst them. the app can also show and direct the user to a specific nearby place specified by the user. This is a personal project intended to make to go international such that everyone will use it, and going to connect people together, and everyone will derive value from it.
+<p style="color: red">It's going to be iconic.</p>
 
 - 🌱 I’m currently learning react, i currently have knowledge vueJs, the app described above is being built with vue, I'm so excited to learn new languages in front end, when i am confident in frontend frameworks, i will learn backend languages,starting with nodejs or laravel. I'm excited about those languages because they can be easily integrated with my chosen frontend frameworks.
 
