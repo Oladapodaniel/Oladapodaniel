@@ -5,8 +5,8 @@ I'm a dedicated Frontend Engineer with a passion for crafting captivating web ex
 ### 🔨 Technical Stack:
 
 - **Languages**: Proficient in HTML, CSS, SASS, and JavaScript.
-- **Frontend Frameworks**: Experienced in Vue.js, React.js, and Nuxt.js.
-- **State Management**: Skilled with VueX for Vue.js state management.
+- **Frontend Frameworks**: Experienced in Vue.js, React.js, React Native and Nuxt.js.
+- **State Management**: Skilled with VueX for Vue.js, Redux for React state management.
 - **UI Libraries**: Proficient in Tailwind CSS, Vuetify, Bootstrap, Elementplus, PrimeVue for elegant and responsive designs.
 - **Backend Tools**: Knowledgeable in Node.js, MongoDB, and Firebase for seamless server integration.
 - **Automation**: Gulp.js for task automation.
